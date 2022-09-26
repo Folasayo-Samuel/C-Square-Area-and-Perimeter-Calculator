@@ -1,1 +1,1 @@
-# C-Square-Area-and-Perimeter-Calculator
+# Square-Area-and-Perimeter-Calculator
