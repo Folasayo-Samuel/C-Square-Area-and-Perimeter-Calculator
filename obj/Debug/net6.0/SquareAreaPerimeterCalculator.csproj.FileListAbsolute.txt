@@ -1,0 +1,15 @@
+/home/saint/Desktop/SquareAreaPerimeterCalculator/bin/Debug/net6.0/SquareAreaPerimeterCalculator
+/home/saint/Desktop/SquareAreaPerimeterCalculator/bin/Debug/net6.0/SquareAreaPerimeterCalculator.deps.json
+/home/saint/Desktop/SquareAreaPerimeterCalculator/bin/Debug/net6.0/SquareAreaPerimeterCalculator.runtimeconfig.json
+/home/saint/Desktop/SquareAreaPerimeterCalculator/bin/Debug/net6.0/SquareAreaPerimeterCalculator.dll
+/home/saint/Desktop/SquareAreaPerimeterCalculator/bin/Debug/net6.0/SquareAreaPerimeterCalculator.pdb
+/home/saint/Desktop/SquareAreaPerimeterCalculator/obj/Debug/net6.0/SquareAreaPerimeterCalculator.csproj.AssemblyReference.cache
+/home/saint/Desktop/SquareAreaPerimeterCalculator/obj/Debug/net6.0/SquareAreaPerimeterCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/SquareAreaPerimeterCalculator/obj/Debug/net6.0/SquareAreaPerimeterCalculator.AssemblyInfoInputs.cache
+/home/saint/Desktop/SquareAreaPerimeterCalculator/obj/Debug/net6.0/SquareAreaPerimeterCalculator.AssemblyInfo.cs
+/home/saint/Desktop/SquareAreaPerimeterCalculator/obj/Debug/net6.0/SquareAreaPerimeterCalculator.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/SquareAreaPerimeterCalculator/obj/Debug/net6.0/SquareAreaPerimeterCalculator.dll
+/home/saint/Desktop/SquareAreaPerimeterCalculator/obj/Debug/net6.0/refint/SquareAreaPerimeterCalculator.dll
+/home/saint/Desktop/SquareAreaPerimeterCalculator/obj/Debug/net6.0/SquareAreaPerimeterCalculator.pdb
+/home/saint/Desktop/SquareAreaPerimeterCalculator/obj/Debug/net6.0/SquareAreaPerimeterCalculator.genruntimeconfig.cache
+/home/saint/Desktop/SquareAreaPerimeterCalculator/obj/Debug/net6.0/ref/SquareAreaPerimeterCalculator.dll
